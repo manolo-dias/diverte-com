@@ -1,0 +1,9 @@
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+.htaccess
+/wp-admin/
+/wp-includes/
+wp-content/plugins/plugin-comum/
+wp-content/themes/twentytwentyone/
